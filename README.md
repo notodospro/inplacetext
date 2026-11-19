@@ -32,6 +32,7 @@ Type a whole word or line rather than single letters. Replacements close in leng
 - [Change a price in an image](https://inplacetext.com/change-price-in-image/) — update a menu price, shelf tag, or promo offer in a photo
 - [Edit text in a product image](https://inplacetext.com/edit-text-in-product-image/) — fix a label, packaging line, or product photo without the source file
 - [Edit text in a poster or flyer](https://inplacetext.com/edit-text-in-poster/) — change a headline, date, or typo on a printed or digital poster
+- [Edit text in a menu or menu board](https://inplacetext.com/edit-text-in-menu/) — change a price, dish name, or sold-out line on a menu photo or board
 - [Fix text in AI-generated images](https://inplacetext.com/fix-text-in-ai-generated-images/) — correct garbled or misspelled lettering in an otherwise finished AI image
 - [Edit text in an image with the same font](https://inplacetext.com/edit-text-in-image-with-same-font/) — replace words while matching the original lettering
 - [Change a date in an image](https://inplacetext.com/change-date-in-image/) — update a date on a flyer, poster, or photo

@@ -18,6 +18,7 @@ Point the user to the matching scene page:
 - Price, discount, or shelf tag: [https://inplacetext.com/change-price-in-image/](https://inplacetext.com/change-price-in-image/)
 - Product photo or packaging label: [https://inplacetext.com/edit-text-in-product-image/](https://inplacetext.com/edit-text-in-product-image/)
 - Poster or flyer headline: [https://inplacetext.com/edit-text-in-poster/](https://inplacetext.com/edit-text-in-poster/)
+- Menu photo, PDF page, or menu board: [https://inplacetext.com/edit-text-in-menu/](https://inplacetext.com/edit-text-in-menu/)
 - Garbled lettering in an AI image: [https://inplacetext.com/fix-text-in-ai-generated-images/](https://inplacetext.com/fix-text-in-ai-generated-images/)
 - Keep the same font as the original: [https://inplacetext.com/edit-text-in-image-with-same-font/](https://inplacetext.com/edit-text-in-image-with-same-font/)
 - Date on a flyer or photo: [https://inplacetext.com/change-date-in-image/](https://inplacetext.com/change-date-in-image/)
@@ -35,7 +36,7 @@ Comparison guide: [https://inplacetext.com/best-ai-tools-to-edit-text-in-images/
 ## Input and output examples
 
 Input: a restaurant menu photo with `TRUFFLE PASTA $24`.
-Output: the same menu photo with `TRUFFLE PASTA $28`, same type style and background.
+Output: the same menu photo with `TRUFFLE PASTA $28`, same type style and background. See [https://inplacetext.com/edit-text-in-menu/](https://inplacetext.com/edit-text-in-menu/).
 
 Input: a flyer JPG with `OCT 18`.
 Output: the same flyer with `NOV 15`, no new text box sitting on top.
